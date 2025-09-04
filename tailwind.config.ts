@@ -52,6 +52,17 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// Agriculture theme colors
+				'forest-green': 'hsl(var(--forest-green))',
+				'leaf-green': 'hsl(var(--leaf-green))',
+				'lime-accent': 'hsl(var(--lime-accent))',
+				'earth-brown': 'hsl(var(--earth-brown))',
+				'weather-blue': 'hsl(var(--weather-blue))',
+				'pest-red': 'hsl(var(--pest-red))',
+				'success-green': 'hsl(var(--success-green))',
+				'bot-message': 'hsl(var(--bot-message))',
+				'user-message': 'hsl(var(--user-message))',
+				'chat-background': 'hsl(var(--chat-background))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
